@@ -14,6 +14,10 @@ const LANGUAGES = {
   nl: {
     defaultMessage: 'Nederlands',
     id: 'locale.language.nl'
+  },
+  de: {
+    defaultMessage: 'German',
+    id: 'locale.language.de'
   }
 };
 
